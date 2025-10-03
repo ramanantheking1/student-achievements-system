@@ -48,5 +48,5 @@ A modern Django-based web application for managing and showcasing student achiev
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ramanantheking1/students-achievements-system.git
+   git clone https://github.com/ramanantheking1/student-achievements-system.git
    cd students-achievements-system
