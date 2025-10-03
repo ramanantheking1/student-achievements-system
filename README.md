@@ -2,11 +2,6 @@
 
 A modern Django-based web application for managing and showcasing student achievements with a secure staff approval workflow.
 
-![Django](https://img.shields.io/badge/Django-4.2-green)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![GitHub](https://img.shields.io/badge/Open--Source-✅-success)
-
 ## ✨ Features
 
 ### 👨‍🎓 For Students
@@ -53,5 +48,5 @@ A modern Django-based web application for managing and showcasing student achiev
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/students-achievements-system.git
+   git clone https://github.com/ramanantheking1/students-achievements-system.git
    cd students-achievements-system
